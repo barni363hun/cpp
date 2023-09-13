@@ -2,9 +2,15 @@
 
 using namespace std;
 
+template<class T>
+T sum(T a,T b){
+    return a + b;
+}
+
 int main()
 {
     cout << "Hello world!" << endl;
-    char *pC = 0;
+    cout << "Hello world!" << endl;
+    cout << sum(1,2) << endl;
     return 0;
 }
