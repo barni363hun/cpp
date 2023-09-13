@@ -1,4 +1,4 @@
-# HelloGitPod
+c++
 
 The purpose of this project is to test how to setup a gitpod.io workspace for C++ development. 
 
