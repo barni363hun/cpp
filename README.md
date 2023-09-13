@@ -1,6 +1,6 @@
-#c++
+# c++
 
-##NOT WORKING
+## NOT WORKING
 
 The purpose of this project is to test how to setup a gitpod.io workspace for C++ development. 
 
